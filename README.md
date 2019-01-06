@@ -1,1 +1,1 @@
-# R
+# Scripts made for data analysis, mainly made with python and r
